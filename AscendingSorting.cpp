@@ -2,8 +2,6 @@
 using namespace std;  
 
 int findSmallest (int[],int);  
- //comment 
- 
 int main ()  
 {  
     int myarray[10] = {11,5,2,20,42,53,23,34,101,22};  
